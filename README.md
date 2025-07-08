@@ -6,11 +6,10 @@
 
 [POW](https://decert.me/quests/45779e03-7905-469e-822e-3ec3746d9ece) BaseDemo/pow.py
 [GAS](https://decert.me/quests/d17a9270-99c3-4aeb-8a46-42ecb5e92792) BaseDemo/gas.py
+[实践 POW 与非对称加密](https://decert.me/claim/45779e03-7905-469e-822e-3ec3746d9ece)：BaseDemo/rsa.py
 
 [CHAIN](https://decert.me/quests/ed2d8324-54b0-4b7a-9cee-5e97d3c30030) Chain/main.py
 [FirstContract](https://decert.me/quests/d17a9270-99c3-4aeb-8a46-42ecb5e92792) FirstContract
-
-[实践 POW 与非对称加密](https://decert.me/claim/45779e03-7905-469e-822e-3ec3746d9ece)：PracticalPOWAndAsymmetricEncryption
 
 [模拟实现最小的区块链原理](https://decert.me/quests/ed2d8324-54b0-4b7a-9cee-5e97d3c30030)：MiniBlcokChain
 
